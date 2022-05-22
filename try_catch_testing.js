@@ -6,3 +6,5 @@ try {
     // statements to handle any exceptions
     console.log(e); // pass exception object to error handler
 }
+
+console.log("test quokka")
