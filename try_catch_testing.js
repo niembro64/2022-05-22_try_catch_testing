@@ -7,4 +7,5 @@ try {
     console.log(e); // pass exception object to error handler
 }
 
-console.log("test quokka")
+const x = "quokka";
+console.log(x);
